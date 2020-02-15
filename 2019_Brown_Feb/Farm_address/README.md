@@ -26,8 +26,11 @@ Print a line containing a single integer, specifying the smallest value of KK th
 7
 ABCDABC
 
-##SAMPLE OUTPUT:
+## SAMPLE OUTPUT:
 
 4
 
 Problem credits: Brian Dean
+
+## Solution in C++
+[code](Farm_address/main.cpp)
