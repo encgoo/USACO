@@ -31,7 +31,7 @@ size_t find_min_unique(const string& in_str){
         if (found_multiple){
             break;
         }
-        // if everything is still find, update min_unique
+        // if everything is still fine, update min_unique
         min_unique = sz_test;
         // decrement sz_test
         sz_test--;
